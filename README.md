@@ -1,3 +1,5 @@
 # P.Web
-uts = html file \n
+
+uts = html file
+
 skrip = js file
