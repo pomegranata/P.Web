@@ -1,4 +1,4 @@
-# UTS Semester 1
+# Program Kalkulator Menggunakan HTML dan JavaScript
 
 uts = html file
 
